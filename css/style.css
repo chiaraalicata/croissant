@@ -19,6 +19,9 @@ a {
   color: green;
   padding: 15px;
 }
+footer {
+  text-align: center;
+}
 .main-img {
   display: block;
   text-align: center;
