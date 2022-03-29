@@ -1,0 +1,33 @@
+body {
+  background-image: linear-gradient(
+      115deg,
+      rgba(245, 175, 94, 0.8),
+      rgba(255, 252, 75, 0.7)
+    ),
+    url(../croissant.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+h1 {
+  text-align: center;
+}
+.main-text {
+  text-align: center;
+}
+a {
+  color: green;
+  padding: 15px;
+}
+.main-img {
+  display: block;
+  text-align: center;
+}
+img {
+  margin-bottom: 30px;
+}
+.email {
+  color: bisque;
+  text-shadow: 1px 1px 2px brown;
+  padding: 5px;
+}
